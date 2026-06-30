@@ -1,0 +1,6 @@
+openai
+sentence-transformers
+scikit-learn
+numpy
+tqdm
+python-Levenshtein
