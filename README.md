@@ -51,7 +51,7 @@ The notebook is organized into 11 sequential cells, meant to be run in order:
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/guardrail-tca.git
+git clone https://github.com/Aarushi1512006/guardrail-tca.git
 cd guardrail-tca
 pip install -r requirements.txt
 jupyter notebook guardrail-tca.ipynb
