@@ -69,7 +69,3 @@ Key toggles live in the Configuration cell:
 ## Related Work
 
 This defense is designed to counter attacks described in [MINJA](https://github.com/dsh3n77/MINJA) (Memory INJection Attack), which demonstrates how an adversary can poison an LLM agent's persistent memory to manipulate future outputs.
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing — see [`LICENSE`](LICENSE).
